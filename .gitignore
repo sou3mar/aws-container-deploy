@@ -1,0 +1,10 @@
+.terraform/
+.terragrunt-cache/
+.terraform.*
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.sample.tfvars
+*.pem
+*.key
+*.zip
